@@ -21,7 +21,7 @@ export default function Home() {
 
   return (
     <div style={{ padding: "50px", fontFamily: "sans-serif", textAlign: "center" }}>
-      <h1>Next.js + FastAPI on Vercel</h1>
+      <h1>Next.js + FastAPI on Vercel ㅇㅇ</h1>
       <hr />
       <p style={{ fontSize: "1.5rem", color: "#0070f3", fontWeight: "bold" }}>
         {data}

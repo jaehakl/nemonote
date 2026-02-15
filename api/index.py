@@ -17,4 +17,4 @@ app.add_middleware(
 
 @app.get("/api/hello")
 def read_root():
-    return {"message": "FastAPI와 Next.js가 Vercel에서 만났습니까? 🚀"}
+    return {"message": "FastAPI와 Next.js가 Vercel에서 만났습니까? 네. 🚀"}
